@@ -2,7 +2,6 @@
     DiskPartWrapper.cs
 This is a stupid file that its purpouse is to call diskpart, and
 to make my ass easier to organize my trashy code :) I think it works
- 
  */
 
 using System;
